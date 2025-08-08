@@ -1,0 +1,4 @@
+
+pytest==8.4.1
+markers = 
+    positive_test: только позитивные тесты
